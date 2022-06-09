@@ -1,4 +1,4 @@
-👋 Hi, I’m Pavle Vuković
+👋 Hello, I’m Pavle Vuković
 
 <!---
 pvlvukovic/pvlvukovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
